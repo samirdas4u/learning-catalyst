@@ -51,7 +51,7 @@ graph TB
 
     subgraph API ["API Layer (Express 4 + tRPC 11)"]
         TR[tRPC Router<br/>Type-safe RPC contracts]
-        AUTH[Manus OAuth<br/>JWT session cookies]
+        AUTH[OAuth 2.0<br/>JWT session cookies]
         UP[Document Upload<br/>PDF/DOCX/PPTX parser]
     end
 
@@ -146,9 +146,9 @@ Mayer's Multimedia Learning Principles are applied at the rendering layer: each 
 | API layer | tRPC 11 + Superjson | End-to-end type safety; Drizzle rows returned directly without DTO mapping |
 | Backend | Express 4 + Node.js 22 | Single-process deployment on Cloud Run (serverless) |
 | Database | MySQL / TiDB + Drizzle ORM | Schema-first migrations; UTC timestamp storage |
-| Authentication | Manus OAuth 2.0 + JWT | Session cookies; `protectedProcedure` / `publicProcedure` middleware |
-| LLM | Built-in Forge API (GPT-4o class) | `json_object` response format for reliable structured output |
-| Image generation | Built-in Forge Image API | Parallel generation; results stored in S3 |
+| Authentication | OAuth 2.0 + JWT | Session cookies; `protectedProcedure` / `publicProcedure` middleware |
+| LLM | OpenAI-compatible API (GPT-4o class) | `json_object` response format for reliable structured output |
+| Image generation | AI Image Generation API | Parallel generation; results stored in S3 |
 | Diagrams | Mermaid.js 11 | Client-side rendering with fullscreen overlay |
 | SCORM | Custom serialiser | SCORM 2004 manifest + xAPI tracking hooks |
 | Video | D-ID API | Presenter avatar with lip-sync |
