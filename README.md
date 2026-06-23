@@ -707,11 +707,16 @@ For a guided walkthrough of the architecture and AI pipeline, visit the **[Archi
 
 ## About the Author
 
-Built by **Samir Das** — Learning & Development professional and software engineer with experience designing and deploying AI-powered learning tools at scale within large technology organisations.
+Built by **Samir Das** — AI Learning & Knowledge Technology Architect at Meta, London, UK. Learning & Development professional and software engineer with experience designing and deploying AI-powered learning tools at scale within large technology organisations.
 
-- Platform: [learningcatalyst.co.uk](https://www.learningcatalyst.co.uk)
-- Architecture: [learningcatalyst.co.uk/architecture](https://www.learningcatalyst.co.uk/architecture)
-- GitHub: [github.com/samirdas4u](https://github.com/samirdas4u)
+| | Link |
+|---|---|
+| 🌐 Platform | [learningcatalyst.co.uk](https://www.learningcatalyst.co.uk) |
+| 🏗️ Architecture | [learningcatalyst.co.uk/architecture](https://www.learningcatalyst.co.uk/architecture) |
+| 👤 Personal Site | [samirdas.co.uk](https://samirdas.co.uk/) |
+| 🏢 Consultancy | [samsdigitalconsultancy.co.uk](https://www.samsdigitalconsultancy.co.uk/) |
+| 💼 LinkedIn | [linkedin.com/in/samir-lifelonglearner](https://www.linkedin.com/in/samir-lifelonglearner/) |
+| 💻 GitHub | [github.com/samirdas4u](https://github.com/samirdas4u) |
 
 ---
 
